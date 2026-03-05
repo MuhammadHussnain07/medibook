@@ -9,6 +9,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%7C%20Auth%20%7C%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen?style=for-the-badge)](https://flutter.dev)
 [![Architecture](https://img.shields.io/badge/Architecture-Dual--Sided-blueviolet?style=for-the-badge)](https://flutter.dev)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge&logo=dart&logoColor=white)
 
 </div>
 
