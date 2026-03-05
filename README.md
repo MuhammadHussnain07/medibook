@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="MediBook Logo" width="120"/>
-
 # MediBook — Clinic Management System
 
 ### *From paper registers and missed calls — to a fully digital clinic in 24 hours.*
